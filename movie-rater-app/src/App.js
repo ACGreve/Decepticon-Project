@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import MovieList from './components/MovieList';
 import Search from './components/Search';
 
+//comment
 function App() {
   let [search, setSearch] = useState("")
   let [message, setMessage] = useState('')
